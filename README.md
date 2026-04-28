@@ -10,7 +10,7 @@
 
 ### ⚡ About
 
-- 🔧 **6+ years** building distributed systems, event-driven architectures, and multi-tenant microservices  
+- 🔧 **6.5+ years** building distributed systems, event-driven architectures, and multi-tenant microservices  
 - 🤖 Designing **agentic AI workflows** with LangGraph, RAG pipelines, and Azure OpenAI  
 - 🏆 **Innovation Catalyst** award recipient — Microsoft Global Center for Innovation & Delivery  
 - 🎤 Community speaker — delivered sessions to **300+ attendees** at Airlift, Tech Connect, and university workshops  
@@ -51,13 +51,21 @@ A framework where agents **dynamically spawn specialists**, coordinate parallel 
 
 🔗 [Live Demo](https://akashchekka.com/OrganAIze/) · [Source Code](https://github.com/akashchekka/OrganAIze)
 
+#### [Memor](https://github.com/akashchekka/memor) — Local Memory Persistence for AI Coding Assistants
+
+Every AI coding tool starts every conversation cold. Memor fixes that — it stores project context locally, indexes it with a **trigram + BM25 search engine**, and gives every tool exactly the right memories within a token budget. Built with Go.
+
+> **Zero cloud** · **Sub-millisecond retrieval** · **Token-budgeted** · **Tool-agnostic** (Copilot, Claude, Cursor, Windsurf)
+
+🔗 [Website](https://akashchekka.com/memor/) · [Source Code](https://github.com/akashchekka/memor)
+
 ---
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akashchekka&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashchekka&theme=github-dark-blue&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashchekka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com?user=akashchekka&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
