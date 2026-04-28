@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchekka/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akashchekka.com-000?style=flat&logo=googlechrome&logoColor=white)](https://akashchekka.com)
-[![Azure AI Engineer](https://img.shields.io/badge/Certified-Azure%20AI%20Engineer%20Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white)](#)
 
 ---
 
@@ -41,15 +40,7 @@
 
 ---
 
-### 🚀 Featured Project
-
-#### [OrganAIze](https://github.com/akashchekka/OrganAIze) — Self-Organizing Multi-Agent AI Framework
-
-A framework where agents **dynamically spawn specialists**, coordinate parallel execution, and synthesize results — all with built-in budget controls and token tracking. Built with LangGraph & LiteLLM.
-
-> **Zero dependencies** · **Recursive spawning** · **Cost-transparent** · **Provider-agnostic**
-
-🔗 [Live Demo](https://akashchekka.com/OrganAIze/) · [Source Code](https://github.com/akashchekka/OrganAIze)
+### 🚀 Featured Projects
 
 #### [Memor](https://github.com/akashchekka/memor) — Local Memory Persistence for AI Coding Assistants
 
@@ -58,6 +49,22 @@ Every AI coding tool starts every conversation cold. Memor fixes that — it sto
 > **Zero cloud** · **Sub-millisecond retrieval** · **Token-budgeted** · **Tool-agnostic** (Copilot, Claude, Cursor, Windsurf)
 
 🔗 [Website](https://akashchekka.com/memor/) · [Source Code](https://github.com/akashchekka/memor)
+
+#### [QLearn](https://github.com/akashchekka/qlearn) — Quantum Computing Animations
+
+Animated quantum computing curriculum for engineers and managers learning from scratch. **32 scenes across 8 modules** — from quantum mechanics foundations to NISQ applications — rendered with Manim.
+
+> **32 animated lessons** · **8 modules** · **4K rendering** · **Pure Python**
+
+🔗 [Website](https://akashchekka.com/qlearn/) · [Source Code](https://github.com/akashchekka/qlearn)
+
+#### [OrganAIze](https://github.com/akashchekka/OrganAIze) — Self-Organizing Multi-Agent AI Framework
+
+A framework where agents **dynamically spawn specialists**, coordinate parallel execution, and synthesize results — all with built-in budget controls and token tracking. Built with LangGraph & LiteLLM.
+
+> **Zero dependencies** · **Recursive spawning** · **Cost-transparent** · **Provider-agnostic**
+
+🔗 [Live Demo](https://akashchekka.com/OrganAIze/) · [Source Code](https://github.com/akashchekka/OrganAIze)
 
 ---
 
